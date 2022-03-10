@@ -1,0 +1,810 @@
+
+
+
+@media(min-width: 1400px){
+    .banner-content h1{
+        font-size: 70px;
+        line-height: 92px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+@media(min-width: 1200px) and (max-width: 1399px){
+
+
+
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 0 20px;
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+
+
+    .banner-content h1 {
+        font-size: 65px;
+        line-height: 90px;
+    }
+
+    .subscribe-part {
+        padding: 58px 30px;
+    }
+
+    .vintage-content p {
+        padding-right: 40px;
+    }
+
+    .product-text {
+        margin-top: 0;
+    }
+
+    .product-text button {
+        margin-top: 0;
+    }
+
+
+    .test-div {
+        padding: 23px 20px 80px 20px;
+    }
+
+    .profile {
+        top: 35%;
+    }
+
+    .n-text p {
+        padding-right: 15px;
+    }
+
+    .n-text button {
+        font-size: 17px;
+        padding: 10px 14px;
+        margin-top: 0; 
+    }
+
+    .btn-text {
+        top: 0px;
+        left: -285px;
+    }
+
+    .b-text {
+        left: -214px;
+        top: 8px;
+    }
+
+    .b-text h3 {
+        margin-top: 0; 
+        margin-left: 0;
+    }
+
+    .b-text h3::after {
+        width: 189px;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(min-width: 992px) and (max-width: 1199px){
+    
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 0 18px;
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+
+    .banner-content h1 {
+        font-size: 50px;
+        line-height: 65px;
+    }
+
+    .banner-content button {
+        padding: 12px 18px;
+        margin-top: 30px;
+    }
+
+    .banner-image img {
+        top: 140px;
+        width: 520px;
+    }
+
+    .vintage-content {
+        margin-left: 90px;
+        padding-top: 40px;
+    }
+
+    .vintage-content p {
+        padding-right: 40px;
+    }
+
+    .vintage-content img {
+        left: -50px;
+        top: 240px;
+    }
+
+    .product-text {
+        margin-top: 0;
+    }
+
+    .p-left p {
+        font-size: 14px;
+        line-height: 16px;
+    }    
+
+    .p-right p {
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .product-text button {
+        font-size: 13px;
+        padding: 12px 55px;
+        margin-top: 0;
+    }
+
+    .test-div {
+        padding: 21px 23px 85px 21px;
+    }
+    .profile {
+        top: 43%;
+    }
+
+
+    .news-pro h3 {
+        font-size: 17px;
+        line-height: 24px;
+        padding: 20px 20px 0px 0px;
+    }
+
+
+    .n-text p {
+        padding-right: 25px;
+    }
+
+    .n-text button {
+        font-size: 18px;
+        padding: 10px 18px;
+        margin-top: 15px;
+    }
+
+    .btn-text {
+        top: -80px;
+        left: -84px;
+    }
+
+    .b-text {
+       display: none;
+    }
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(min-width: 768px) and (max-width: 991px){
+
+    .navbar {
+        position: static;
+        background: radial-gradient(#e8f4ff, #d3e9fe);
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        display: none;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 0 5px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    .navbar-brand img {
+        padding-bottom: 0; 
+        margin-bottom: 0;
+        width: 100px; 
+    }
+
+    .navbar-brand i {
+        display: none;
+    }
+
+    .navbar-toggler {
+        margin-left: 200px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        text-align: center;
+    }
+
+
+    #banner {
+        padding-top: 10px;
+        padding-bottom: 0;
+        background: radial-gradient(#e8f4ff, #d3e9fe);
+        position: relative;
+    }
+
+    .banner-content h1 {
+        font-size: 45px;
+        line-height: 50px;
+        padding-right: 100px;
+    }
+
+    .banner-content button {
+        padding: 10x 15px;
+        font-size: 15px;
+        margin-top: 20px;
+        position: static;
+        color: #fff;
+        background: #3a85c9;
+        animation: none;
+    }
+
+    .banner-image img {
+        width: 100%;
+        position: static;
+    }
+
+    #features {
+        padding-top: 90px;
+        padding-bottom: 80px;
+    }
+
+    .feature-conts {
+        padding: 0; 
+    }
+
+
+    .tripod-img img {
+         position: static;
+         height: auto;
+
+    }
+    .tripod-conts button {
+        padding: 10px 15px;
+        font-size: 15px;
+        margin-top: 10px;
+        margin-left: 0;
+    }
+
+
+    #question {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .accordion-body {
+        padding-right: 35px;
+    }
+
+    .question-part h3 {
+        font-size: 30px;
+        padding-bottom: 20px;
+    }
+
+    .subscribe-part {
+        padding: 42px 30px;
+    }
+
+    #product {
+        padding-top: 65px;
+        padding-bottom: 40px;
+    }
+
+
+    .vintage-content {
+        margin-left: 20px;
+        padding-top: 0;
+    }
+
+    .vintage-content h4 {
+        padding-bottom: 0;
+        font-size: 28px;
+    }
+
+    .vintage-content p {
+        padding-right: 40px;
+    }
+
+    .vintage-content img {
+        display: none;
+    }
+
+    #testimonial {
+        padding-bottom: 30px;
+    }
+
+    .test-div {
+        padding: 15px 5px 75px 15px;
+    }
+
+    .profile {
+        top: 45%;
+    }
+
+
+    #news {
+        padding-bottom: 50px;
+    }
+    .news-item-gap{
+        margin-top: 30px;
+    }
+
+
+    .text-icon {
+      margin-left: 0;
+    }
+
+    .fo-text p {
+        font-size: 13px;
+        margin-top: 0;
+    }
+
+    .follo h2 {
+        padding-top: 30px;
+    }
+
+    .n-text button {
+        margin-bottom: 52px;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+@media(min-width: 576px) and (max-width:767px){
+
+
+    .navbar-brand img {
+        padding-bottom: 0px;
+        margin-bottom: 10px;
+        width: 60px;
+    }
+    .navbar {
+        position: static;
+        background: radial-gradient(#e8f4ff, #d3e9fe);
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        display: none;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 0 5px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    .navbar-brand img {
+        padding-bottom: 0; 
+        margin-bottom: 0;
+        width: 100px; 
+    }
+
+    .navbar-brand i {
+        display: none;
+    }
+
+    .navbar-toggler {
+        margin-left: 200px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        text-align: center;
+    }
+
+
+    #banner {
+        padding-top: 10px;
+        padding-bottom: 0;
+        background: radial-gradient(#e8f4ff, #d3e9fe);
+        position: relative;
+    }
+
+    .banner-content h1 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .banner-content button {
+        padding: 5px 10px;
+        font-size: 15px;
+        margin-top: 20px;
+        position: static;
+        color: #fff;
+        background: #3a85c9;
+    }
+
+    .banner-image img {
+        width: 100%;
+        position: static;
+    }
+
+
+    #features {
+        padding-top: 50px;
+        padding-bottom: 30px;
+    }
+
+    #tripod {
+        padding-top: 35px;
+        padding-bottom: 45px;
+    }
+
+    .tripod-img img {
+         position: static;
+         height: auto;
+    }
+
+    .tripod-conts h3 {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .tripod-conts p {
+        padding-right: 0;
+        text-align: justify;
+        padding: 10px;
+    }
+
+    .tripod-conts button {
+        padding: 10px 15px;
+        font-size: 15px;
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+
+
+    #question {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .accordion-body {
+        padding-right: 35px;
+    }
+
+    .question-part h3 {
+        font-size: 25px;
+        padding-bottom: 20px;
+    }
+
+    .vintage-content {
+        margin-left: 20px;
+        padding-top: 30px;
+    }
+
+    .vintage-content p {
+        padding-right: 40px;
+    }
+
+    .vintage-content img {
+        position: static;
+        margin-top: 20px;
+    }
+
+    .vintage-play {
+        transform: translateY(-50% , -50%);
+        left: 50%;
+    }
+
+    
+    #product {
+        padding-top: 55px;
+        padding-bottom: 50px;
+    }
+
+    .product-text-bg {
+        padding-top: 0;
+    }
+
+    .common-header {
+        padding-bottom: 30px;
+    }
+
+    .common-header h2 {
+        font-size: 28px;
+    }
+
+    .left-right-icon {
+        display: none;
+    }
+
+    .product-text button {
+        padding: 8px 55px;
+        margin-top: 0;
+    }
+
+
+    #testimonial {
+        padding-bottom: 40px;
+    }
+
+    .btn-text-all {
+        position: relative;
+        margin-top: 1px;
+        margin-bottom: 100px;
+    }
+
+    .btn-text {
+        position: static; 
+    }
+
+
+    .n-text button {
+        font-size: 15px;
+        padding: 8px 15px;
+        margin-top: 0;
+        margin-bottom: 15px;
+    }
+
+    .b-text {
+         position: static;
+        margin-bottom: 10px;
+        margin-top: -126px;
+        margin-left: 13px;
+    }
+
+    #news {
+        padding-bottom: 40px;
+    }
+
+
+    .text-icon {
+        margin-left: 25%;
+        margin-bottom: 10px;
+    }
+
+    .follo h2 {
+        padding-top: 30px;
+    }
+
+
+
+}
+
+
+
+
+
+
+@media(max-width: 575.99px){
+    .navbar-brand img {
+        padding-bottom: 0px;
+        margin-bottom: 10px;
+        width: 60px;
+    }
+    .navbar {
+        position: static;
+        background: radial-gradient(#e8f4ff, #d3e9fe);
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        display: none;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 0 5px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    .navbar-brand img {
+        padding-bottom: 0; 
+        margin-bottom: 0;
+        width: 100px; 
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar-brand i {
+        display: none;
+    }
+
+    .navbar-toggler {
+        margin-left: 200px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        text-align: center;
+    }
+
+    #banner {
+        padding-top: 10px;
+        padding-bottom: 0;
+        background: radial-gradient(#e8f4ff, #d3e9fe);
+        position: relative;
+    }
+
+    .banner-content h1 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .banner-content button {
+        padding: 5px 10px;
+        font-size: 15px;
+        margin-top: 20px;
+        position: static;
+        color: #fff;
+        background: #3a85c9;
+    }
+
+    .banner-image img {
+        width: 100%;
+        position: static;
+    }
+
+    #features {
+        padding-top: 50px;
+        padding-bottom: 30px;
+    }
+
+    #tripod {
+        padding-top: 35px;
+        padding-bottom: 45px;
+    }
+
+    .tripod-img img {
+         position: static;
+         height: auto;
+    }
+
+    .tripod-conts h3 {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .tripod-conts p {
+        padding-right: 0;
+        text-align: justify;
+        padding: 10px;
+    }
+
+.tripod-conts button {
+	padding: 10px 15px;
+	font-size: 15px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+
+    #question {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .accordion-body {
+        padding-right: 35px;
+    }
+
+    .question-part h3 {
+        font-size: 25px;
+        padding-bottom: 20px;
+    }
+
+    .vintage-content {
+        margin-left: 20px;
+        padding-top: 30px;
+    }
+
+    .vintage-content p {
+        padding-right: 40px;
+    }
+
+    .vintage-content img {
+        position: static;
+        margin-top: 20px;
+    }
+
+    .vintage-play {
+        transform: translateY(-50% , -50%);
+        left: 50%;
+    }
+
+    #product {
+        padding-top: 55px;
+        padding-bottom: 50px;
+    }
+
+    .common-header {
+        padding-bottom: 30px;
+    }
+
+    .common-header h2 {
+        font-size: 28px;
+    }
+
+    .left-right-icon {
+        display: none;
+    }
+
+
+    #testimonial {
+        padding-bottom: 40px;
+    }
+
+    .btn-text-all {
+        position: relative;
+        margin-top: 1px;
+        margin-bottom: 100px;
+    }
+
+    .btn-text {
+        position: static; 
+    }
+
+
+    .n-text button {
+        font-size: 15px;
+        padding: 8px 15px;
+        margin-top: 0;
+        margin-bottom: 15px;
+    }
+
+    .b-text {
+         position: static;
+        margin-bottom: 10px;
+        margin-top: -126px;
+        margin-left: 13px;
+    }
+
+    #news {
+        padding-bottom: 40px;
+    }
+
+
+    .text-icon {
+        margin-left: 25%;
+        margin-bottom: 10px;
+    }
+
+    .follo h2 {
+        padding-top: 30px;
+    }
+
+}
